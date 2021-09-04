@@ -1,0 +1,29 @@
+.address-container {
+  margin: 10px;
+}
+.alignadd {
+  display: flex;
+}
+.textbox {
+  height: 25px;
+  width: 400px;
+  margin: 15px;
+}
+.countrysel {
+  margin: 20px;
+}
+.backcolor {
+  background: rgb(255, 255, 255);
+}
+.h3 {
+  background: #fff;
+  padding: 2px;
+  border-radius: 10px;
+}
+legend {
+  font-size: 25px;
+  font-weight: 600;
+}
+fieldset {
+  padding: 10px 60px;
+}

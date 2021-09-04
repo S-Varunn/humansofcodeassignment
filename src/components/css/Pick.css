@@ -1,0 +1,32 @@
+table {
+  margin: 10px;
+  font-size: large;
+  border: 2px;
+  border-radius: 10px;
+  width: 80%;
+  padding: 10px;
+}
+table {
+  background-color: cornflowerblue;
+}
+td {
+  background-color: #ffffff;
+  border: 2px;
+  border-radius: 5px;
+  border: 2px;
+  border-radius: 10px;
+  font-weight: lighter;
+}
+th,
+td {
+  border: 2px;
+  border-radius: 5px;
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  margin: 10px;
+}
+.tablecontainer {
+  display: flex;
+  justify-content: center;
+}

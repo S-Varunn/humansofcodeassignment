@@ -1,0 +1,40 @@
+.nav-container {
+  display: flex;
+  box-sizing: border-box;
+  margin: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "Akaya Kanadaka", cursive;
+  background: linear-gradient(
+    to right,
+    #387cff,
+    #72a2ff,
+    #8bcdff,
+    #72a2ff,
+    #387cff
+  );
+  font-size: 15px;
+}
+.logo {
+  font-size: 50px;
+  background: -webkit-linear-gradient(rgb(0, 0, 0), rgb(110, 7, 179));
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-left: 20px;
+  cursor: pointer;
+  justify-self: start;
+  font-family: "Sansita Swashed", cursive;
+}
+h2 {
+  font-family: "Zen Dots", cursive;
+}
+.invoiceno {
+  display: flex;
+}
+.textbox {
+  height: 25px;
+  width: 120px;
+  margin: 15px;
+}
